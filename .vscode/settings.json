@@ -14,5 +14,8 @@
     "RETANGULO",
     "TRAPEZIO",
     "TRIANGULO"
-  ]
+  ],
+  "files.associations": {
+    "stdio.h": "c"
+  }
 }
