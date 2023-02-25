@@ -1,4 +1,4 @@
-# Beecrowd problem solution in c language.
+# Beecrowd problem solution in C & C++.
 
 ## ( Old website name: URI ONLINE JUDGE )
 
