@@ -1,9 +1,15 @@
 {
+  "github.copilot.enable": {
+    "cpp": false,
+    "c": false
+  },
   "cSpell.words": [
+    "ACUTANGULO",
     "Beecrowd",
     "calcular",
     "CIRCULO",
     "DIFERENCA",
+    "EQUILATERO",
     "Impossivel",
     "maior",
     "minutos",
@@ -11,6 +17,7 @@
     "MOEDAS",
     "Multiplos",
     "NOTAS",
+    "OBTUSANGULO",
     "PAGAR",
     "QUADRADO",
     "RETANGULO",
@@ -64,4 +71,8 @@
     "streambuf": "cpp",
     "typeinfo": "cpp"
   }
+  // ,
+  // "[cpp]": {
+  //   "editor.defaultFormatter": "ms-vscode.cpptools"
+  // }
 }
